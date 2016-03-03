@@ -1,6 +1,8 @@
 # awesome-tech-blogs
 Awesome Technical Blogs
 
+1. [Linux](https://github.com/irahulsingh/awesome-tech-blogs/blob/master/linux.md)
+
 # Inspiration
 Inspired by https://github.com/sindresorhus/awesome
 
