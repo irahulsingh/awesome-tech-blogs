@@ -4,6 +4,7 @@
 2. [Webhooks](https://github.com/irahulsingh/awesome-tech-blogs/blob/master/webhook.md)
 3. [Emulators](https://github.com/irahulsingh/awesome-tech-blogs/blob/master/android-emulators.md)
 4. [Reverse Engineering](https://github.com/irahulsingh/awesome-tech-blogs/blob/master/reverse-engineering.md)
+5. [Ruby](https://github.com/irahulsingh/awesome-tech-blogs/blob/master/ruby.md)
 
 # Inspiration
 Inspired by https://github.com/sindresorhus/awesome
