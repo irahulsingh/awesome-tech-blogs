@@ -1,1 +1,2 @@
-[Curl vs Wget](https://daniel.haxx.se/docs/curl-vs-wget.html)
+- [Curl vs Wget](https://daniel.haxx.se/docs/curl-vs-wget.html)
+- [Understanding Linux File Permissions](http://www.linux.com/learn/tutorials/309527-understanding-linux-file-permissions)
