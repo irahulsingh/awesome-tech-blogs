@@ -1,2 +1,6 @@
 * [Popular JavaScript Frameworks in 2016](http://www.clock.co.uk/blog/javascript-frameworks-in-2016)
 * [Enzyme: JavaScript Testing utilities for React](https://medium.com/airbnb-engineering/enzyme-javascript-testing-utilities-for-react-a417e5e5090f#.ub2uzfd47)
+* [Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
+* [JavaScript Promises](http://www.html5rocks.com/en/tutorials/es6/promises/)
+* [Promises for asynchronous programming](http://exploringjs.com/es6/ch_promises.html)
+* [ECMAScript 6 promises (2/2): the API](http://www.2ality.com/2014/10/es6-promises-api.html)

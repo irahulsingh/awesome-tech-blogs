@@ -1,0 +1,1 @@
+* [How Rails Sessions Work](http://www.justinweiss.com/articles/how-rails-sessions-work/)

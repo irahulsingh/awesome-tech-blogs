@@ -9,3 +9,4 @@
 * Choose right background job framework for you [here!](http://blog.scoutapp.com/articles/2016/02/16/which-ruby-background-job-framework-is-right-for-you)
 * [Defensive programming in Ruby](https://blog.lelonek.me/defensive-programming-in-ruby-477f3505742a#.pvt3sb2i5)
 * [Awesome ruby tricks](http://www.blackbytes.info/2016/01/ruby-tricks/)
+* [Include vs Extend in Ruby](http://www.railstips.org/blog/archives/2009/05/15/include-vs-extend-in-ruby/)
