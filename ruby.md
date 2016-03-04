@@ -2,3 +2,10 @@
 2. [Heroku Error R14 (Memory quota exceeded): How do I solve this?](http://stackoverflow.com/questions/8875280/heroku-error-r14-memory-quota-exceeded-how-do-i-solve-this)
 3. How Ruby Uses Memory [See here!](http://www.schneems.com/2015/05/11/how-ruby-uses-memory.html) & [here!](http://www.sitepoint.com/ruby-uses-memory/)
 4. Fat models?? [Put your models on diet](http://blog.lunarlogic.io/2015/models-on-a-diet/)
+5. Understanding fundamental abstraction for concurrency in [ruby](https://rossta.net/blog/a-ruby-antihero-thread-pool.html)
+6. [To gem, or not to gem](https://robots.thoughtbot.com/to-gem-or-not-to-gem)
+7. Understanding [private](https://blog.arkency.com/2016/02/private-classes-in-ruby) classes 
+8. Everything you need to know about [Cron Jobs](https://launchschool.com/blog/cron-jobs-and-rails)
+9. Choose right background job framework for you [here!](http://blog.scoutapp.com/articles/2016/02/16/which-ruby-background-job-framework-is-right-for-you)
+10. [Defensive programming in Ruby](https://blog.lelonek.me/defensive-programming-in-ruby-477f3505742a#.pvt3sb2i5)
+11. [Awesome ruby tricks](http://www.blackbytes.info/2016/01/ruby-tricks/)
