@@ -1,10 +1,13 @@
 #### Awesome Technical Blogs, Notes & Other Technical Resources
 
-1. [Linux](https://github.com/irahulsingh/awesome-tech-blogs/blob/master/linux.md)
-2. [Webhooks](https://github.com/irahulsingh/awesome-tech-blogs/blob/master/webhook.md)
-3. [Emulators](https://github.com/irahulsingh/awesome-tech-blogs/blob/master/android-emulators.md)
-4. [Reverse Engineering](https://github.com/irahulsingh/awesome-tech-blogs/blob/master/reverse-engineering.md)
-5. [Ruby](https://github.com/irahulsingh/awesome-tech-blogs/blob/master/ruby.md)
+* [Emulators](https://github.com/irahulsingh/awesome-tech-blogs/blob/master/android-emulators.md)
+* [Golang](https://github.com/irahulsingh/awesome-tech-blogs/blob/master/go.md)
+* [Javascript](https://github.com/irahulsingh/awesome-tech-blogs/blob/master/javascript.md)
+* [Linux](https://github.com/irahulsingh/awesome-tech-blogs/blob/master/linux.md)
+* [Markdown](https://github.com/irahulsingh/awesome-tech-blogs/blob/master/markdown.md)
+* [Reverse Engineering](https://github.com/irahulsingh/awesome-tech-blogs/blob/master/reverse-engineering.md)
+* [Ruby](https://github.com/irahulsingh/awesome-tech-blogs/blob/master/ruby.md)
+* [Webhooks](https://github.com/irahulsingh/awesome-tech-blogs/blob/master/webhook.md)
 
 # Inspiration
 Inspired by https://github.com/sindresorhus/awesome
