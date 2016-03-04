@@ -1,4 +1,4 @@
-#### Awesome Technical Blogs & Notes & Other Technical Resources
+#### Awesome Technical Blogs, Notes & Other Technical Resources
 
 1. [Linux](https://github.com/irahulsingh/awesome-tech-blogs/blob/master/linux.md)
 2. [Webhooks](https://github.com/irahulsingh/awesome-tech-blogs/blob/master/webhook.md)
