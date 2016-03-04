@@ -1,6 +1,6 @@
 #### Awesome Technical Blogs, Notes & Other Technical Resources
 
-* [Database](https://github.com/irahulsingh/awesome-tech-blogs/blob/master/database.md)
+* [Database](https://github.com/irahulsingh/awesome-tech-blogs/blob/master/databases.md)
 * [Emulators](https://github.com/irahulsingh/awesome-tech-blogs/blob/master/android-emulators.md)
 * [Golang](https://github.com/irahulsingh/awesome-tech-blogs/blob/master/go.md)
 * [Javascript](https://github.com/irahulsingh/awesome-tech-blogs/blob/master/javascript.md)
