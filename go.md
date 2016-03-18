@@ -1,2 +1,6 @@
 * [An Intro to Concurrency Patterns in G](http://blog.codeship.com/an-intro-to-concurrency-patterns-in-go/)
 * [Learn Go by example](https://gobyexample.com/)
+* [How I start with Go](http://howistart.org/posts/go/1)
+* [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
+* [Writing Microservices in Go](http://nordicapis.com/writing-microservices-in-go/)
+* [Handling 1 Million Requests per Minute with Go](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
